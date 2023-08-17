@@ -8,7 +8,7 @@ Check out the .ipynb file to see the working idea.
 ```
 pip install requirements.txt
 ```
-2. Create a folder named Data inside the main project folder
+2. Create a folder named Data inside the main project folder and download the Dataset from the link given below into this folder  
 3. Run the .ipynb file
 
 # Dataset

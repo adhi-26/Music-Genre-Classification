@@ -7,7 +7,8 @@ The dataset used is [GZTAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan
 I have not included it here due to its large size.  
 
 # Data Visualisation
-Using Librosa and Seaborn libraries
+Using Librosa and Seaborn libraries  
+
 Waveshow  
 ![waveform-plot](Images/waveshow.png)
 

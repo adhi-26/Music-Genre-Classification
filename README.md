@@ -10,16 +10,20 @@ I have not included it here due to its large size.
 # Data Visualisation
 Using Librosa and Seaborn libraries  
 
-Waveshow  
+<h3>Waveshow</h3>  
+  
 ![waveform-plot](Images/waveshow.png)
 
-Spectrogram  
+<h3>Spectrogram</h3>  
+
 ![waveform-plot](Images/spectrogram.png)  
 
-Spectral rolloff  
+<h3>Spectral rolloff</h3>  
+
 ![waveform-plot](Images/waveshow.png)  
 
-Chroma  
+<h3>Chroma</h3>   
+
 ![waveform-plot](Images/chroma.png)
 
 

@@ -1,6 +1,6 @@
 # Music-Genre-Classification
-music genre classification using KNN and Neural Network techniques
-Check out the Jupyter file to see the working idea.
+music genre classification using KNN and Neural Network techniques  
+Check out the .ipynb file to see the working idea.
 
 # Dataset
 The dataset used is [GZTAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) (the famous GTZAN dataset, the MNIST of sounds)  

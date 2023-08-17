@@ -1,12 +1,25 @@
 # Music-Genre-Classification
-<<<<<<< HEAD
-music genre classification using KNN and Neural Network methods
+music genre classification using KNN and Neural Network techniques
+Check out the Jupyter file to see the working idea.
 
 # Data Visualisation
+
+Waveshow  
 ![waveform-plot](Images/waveshow.png)
-=======
-music genre classification
+
+Spectrogram  
+![waveform-plot](Images/spectrogram.png)  
+
+Spectral rolloff  
+![waveform-plot](Images/waveshow.png)  
+
+Chroma
+![waveform-plot](Images/Chroma.png)
 
 
-https://github.com/adhi-26/Music-Genre-Classification/blob/main/Images/waveshow.png
->>>>>>> 02ab6d4d119712e8cd35fb6058ed36205918000c
+
+
+
+
+
+

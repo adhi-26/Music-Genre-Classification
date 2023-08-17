@@ -4,11 +4,13 @@ music genre classification using KNN and Neural Network techniques
 Check out the .ipynb file to see the working idea.  
 
 # Using this project
-To use this file, clone the repository and create a virtual environment and type the following command to install the necessary libraries:   
+1.To use this project, clone the repository and create a virtual environment and type the following command to install the necessary libraries:   
 ```
 pip install requirements.txt
 ```
-and then run the .ipynb file
+2. Create a folder named Data inside the main project folder
+3. Run the .ipynb file
+
 # Dataset
 The dataset used is [GZTAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) (the famous GTZAN dataset, the MNIST of sounds)  
 I have not included it here due to its large size.  

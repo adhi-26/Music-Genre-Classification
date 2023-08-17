@@ -2,8 +2,12 @@
 music genre classification using KNN and Neural Network techniques
 Check out the Jupyter file to see the working idea.
 
-# Data Visualisation
+# Dataset
+The dataset used is [GZTAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) (the famous GTZAN dataset, the MNIST of sounds)  
+I have not included it here due to its large size.  
 
+# Data Visualisation
+Using Librosa and Seaborn libraries
 Waveshow  
 ![waveform-plot](Images/waveshow.png)
 
@@ -13,8 +17,8 @@ Spectrogram
 Spectral rolloff  
 ![waveform-plot](Images/waveshow.png)  
 
-Chroma
-![waveform-plot](Images/Chroma.png)
+Chroma  
+![waveform-plot](Images/chroma.png)
 
 
 

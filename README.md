@@ -1,7 +1,7 @@
 # Music Genre Classification
 music genre classification using KNN and Neural Network techniques  
   
-Check out the music_genre_classification.ipynb file to see the working idea.  
+Check out the [.ipynb](music_genre_classification.ipynb) file to see the working idea.  
 
 # Using this project
 1.To use this project, clone the repository and create a virtual environment and type the following command to install the necessary libraries:   
